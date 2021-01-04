@@ -1,0 +1,11 @@
+#Give a Single Player or Multiplayer Option
+#if Single Player Take Text from a predetermined List
+#If Multiplayer recieve text from 1 Player
+#Display Letters of the word with "_"
+# Create a Dictionary with letter and all of its indices
+#Take input from Guessing Player
+# If guess is incorrect remove a live (max 5)
+# If guess is correct replace "_" with correct letter
+#Repeat until live == 0 or no more letters to guess
+
+def ModeSelector():
